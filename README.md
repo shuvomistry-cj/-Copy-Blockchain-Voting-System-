@@ -1,7 +1,5 @@
 # Blockchain Voting System 🗳️
 
-![Decentralized Voting System](Blockchain & Smart Contracts (1).png)
-
 A decentralized voting system built on Ethereum's Sepolia testnet. This project allows users to vote for their preferred candidate using smart contracts, ensuring transparency and security in the voting process.
 
 ## Features
