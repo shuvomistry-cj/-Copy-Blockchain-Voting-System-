@@ -1,5 +1,7 @@
 # Blockchain Voting System 🗳️
 
+![Decentralized Voting System](Blockchain & Smart Contracts (1).png)
+
 A decentralized voting system built on Ethereum's Sepolia testnet. This project allows users to vote for their preferred candidate using smart contracts, ensuring transparency and security in the voting process.
 
 ## Features
@@ -24,51 +26,3 @@ A decentralized voting system built on Ethereum's Sepolia testnet. This project 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/blockchain-voting-system.git
-
-
-Navigate to the project directory:
-
-bash
-cd blockchain-voting-system
-Install the required dependencies:
-
-bash
-pip install -r requirements.txt
-Run the Streamlit app:
-
-bash
-streamlit run app.py
-How to Use
-Connect Your Wallet:
-
-Enter your Ethereum wallet address (Sepolia testnet) in the app.
-
-Choose a Candidate:
-
-Select your preferred candidate from the dropdown menu.
-
-Submit Your Vote:
-
-Click the "Vote Now" button to submit your vote.
-
-View Results:
-
-Check the voting results displayed in the app.
-
-Smart Contract Details
-Contract Address: 0xYourContractAddress (Replace with your deployed contract address)
-
-ABI: Included in the contract_abi.json file.
-
-Contributing
-Contributions are welcome! If you'd like to contribute, please follow these steps:
-
-Fork the repository.
-
-Create a new branch (git checkout -b feature/YourFeatureName).
-
-Commit your changes (git commit -m 'Add some feature').
-
-Push to the branch (git push origin feature/YourFeatureName).
-
-Open a pull request.
